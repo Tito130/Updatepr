@@ -1,1 +1,6 @@
-{'ver1':'11', 'ver2':'96', 'ver3':'\n• [new update].\n• It contains many great new features.\n• More important fixes and improvements.\n• [تحديث جديد ممتع].\n• يحتوي على العديد من المزايا الجديد الرائعة.\n• مزيد إصلاحات وتحسينات أخرى مهمة.\n' , 'dli':'https://t.me/tito_mods'}
+{
+  "ver1": "11",
+  "ver2": "96",
+  "ver3": "\n✨ [New Update]\n📌 v10.30\n\n🔹 Improvements & fixes.\n🔹 Update for better performance.\n\n✨ [تحديث جديد]\n📌 الإصدار 10.30\n\n🔹 تحسينات وإصلاحات.\n🔹 حدّث الآن لأداء أفضل.",
+  "dli": "https://t.me/RCMods"
+}
