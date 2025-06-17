@@ -1,6 +1,6 @@
 {
-  "ver1": "21",
-  "ver2": "95",
+  "ver1": "1",
+  "ver2": "2",
   "ver3": "• New update available.\n• Includes enhanced features and essential improvements.\n• Important fixes to boost performance and stability.\n• تم إصدار تحديث جديد.\n• يتضمن ميزات محسّنة وتحسينات ضرورية.\n• إصلاحات مهمة لتعزيز الأداء والاستقرار.",
   "dli": "https://t.me/ALMBRMG_ALMHTRF2019"
 }
