@@ -1,6 +1,6 @@
 {
   "ver1": "11",
-  "ver2": "96",
+  "ver2": "91",
   "ver3": "\n✨ [New Update]\n📌 v10.30\n\n🔹 Improvements & fixes.\n🔹 Update for better performance.\n\n✨ [تحديث جديد]\n📌 الإصدار 10.30\n\n🔹 تحسينات وإصلاحات.\n🔹 حدّث الآن لأداء أفضل.",
   "dli": "https://t.me/RCMods"
 }
