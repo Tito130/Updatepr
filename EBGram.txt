@@ -1,0 +1,11 @@
+{
+"version": "11.14.1",
+"title": "تحديث جديد!",
+"NewVersion": " ",
+"downloadLink": "https://t.me/kr_kr1/11828",
+"changeLogMessage": "الرجاء التحديث لتفعيل الميزات الجديدة.
+",
+"negativebtn": "لاحقاً",
+"positivebtn": "تحديث",
+"changelogTitle": " "
+}
