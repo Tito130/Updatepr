@@ -2,7 +2,7 @@
   "records": [
     {
       "version": "DELTA GB v3.0.2",
-      "code": 146,
+      "code": 147,
       "url": "https://bit.ly/DELTAGBv300",
       "changelog": "- Fix Linked Device"
     }
