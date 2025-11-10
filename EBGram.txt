@@ -1,4 +1,4 @@
 versionName=7.0
-webpageUrl=https://t.me/EB1Gram
+webpageUrl=https://t.me/EB1Gram/92
 
 dialogTitle=EBGram v7.0
