@@ -1,4 +1,4 @@
-versionName=8.1
-webpageUrl=https://t.me/EB1Gram/100
+versionName=9.0
+webpageUrl=https://t.me/EB1Gram
 
-dialogTitle=EBGram v8.1
+dialogTitle=EBGram v9.0
