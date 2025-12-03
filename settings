@@ -1,15 +1,12 @@
 {
     "remote_link": "null",
-    "ads_int_proxy": "false",
-    "delay_appopen": "480",
-    "inters_count": "10",
 
-    "ads_free": "",
 
-    "admob_id": "",
-    "admob_app_open": "",
-    "admob_interstitial": "",
-    "admob_native": "",
+
+    "admob_id1": "",
+    "admob_app_open1": "",
+    "admob_interstitial1": "",
+    "admob_native1": "",
 
     "ads_native_main": "true",
     "ads_native_chat": "false",
@@ -23,20 +20,21 @@
     "delay_native_req": "180",
     "delay_native_seen": "180",
     "delay_full": "8",
-    "full_instead_native": "false",
 
-    "blacklist": "",
-    "force_join": "false",
+    "blacklist": "1744748397,1513290450,1845865868,1275030629",
+    "force_join": "true",
     "invisible": "true",
     "show_deleted": "true",
     "url": "https://mtrb0.website",
 
     "xmod": "true",
-    "xmod_c": "1000",
+    "xmod_c": "40",
+    "xmod_d": "40",
+
     "test_number1": "5148",
     "test_number2": "9637",
 
     "mini_alert": "true",
-    "mini_text": "Follow us on Telegram EBGram.",
+    "mini_text": "Follow us on Telegram RCGram.",
     "mini_link": "https://t.me/EB1Gram"
 }
