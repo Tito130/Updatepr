@@ -1,4 +1,4 @@
 versionName=12.6
 webpageUrl=https://t.me/EB1Gram
 
-dialogTitle=EBGram v16.6
+dialogTitle=EBGram v12.6
