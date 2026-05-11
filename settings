@@ -47,11 +47,9 @@
     "mini_alert": "false",
     "mini_irn": "false",
     "mini_text": "Follow us on EBGram.",
-    "mini_link": "https://t.me/EB1Gram"
+    "mini_link": "https://t.me/EB1Gram",
 
     "turbo_hint": "true",
     "hint_link": "https://t.me/EB1Gram",
     "hint_title": "EBGram",
-    "hint_text": "Follow us on EBGram."
-
-}
+    "hint_text": "Follow us on EBGram.RCGram
