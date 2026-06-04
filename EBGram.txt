@@ -1,4 +1,5 @@
-versionName=12.7
-webpageUrl=https://t.me/EB1Gram
-
-dialogTitle=EBGram v12.7
+{
+  "versionName": "12.7.3",
+  "webpageUrl": "https://t.me/EB1Gram",
+  "dialogTitle": "RCGram v12.7.3"
+}
