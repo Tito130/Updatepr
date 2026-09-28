@@ -1,5 +1,0 @@
-{
-  "versionName": "12.7.3",
-  "webpageUrl": "https://t.me/EB1Gram/120",
-  "dialogTitle": "EBGram v12.7.3"
-}
